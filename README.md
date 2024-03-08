@@ -1,5 +1,5 @@
 # Money Transfer API
-This is a simple REST API that allows users to create and manage accounts, and transfer money between them. 
+This is a simple money transfer REST API that allows users to create and manage accounts, and transfer money between them
 The API is built using Java 17 and Spring Boot 3.0.4, and uses a PostgreSQL database to store account information and transaction history. 
 It is designed to be stateless and uses JWT for authentication and authorization.
 
